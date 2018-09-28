@@ -8,9 +8,14 @@
     "contributors": [],
     "diagrams": [
       {
-        "title": "High level view",
+        "title": "HighLevel",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
+      },
+      {
+        "title": "Detail",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
